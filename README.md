@@ -1,6 +1,5 @@
-# gwtcreate-eu-2016
-2016 EU GWT.Create
+# 2016 EU GWT.Create
 
-# TODO :
+TODO :
 
-0 - Mindmap
+Mindmap v1
